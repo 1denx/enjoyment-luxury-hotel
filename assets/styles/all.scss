@@ -1,0 +1,10 @@
+// 首先要引入 bootstrap 5 的 functions
+@import "bootstrap/scss/functions";
+
+@import "./variables";
+@import "./variables-dark";
+@import "/bootstrap/scss/bootstrap";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/root";
+@import "bootstrap/scss/utilities/api";
